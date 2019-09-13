@@ -1,0 +1,25 @@
+2047;No Tears Left to Cry;Ariana Grande;Sweetener;Disco;206;2018
+3013;TT;Twice;Twicecoaster:Lane 1;K-pop;218;2016
+9201;God Is a Woman;Ariana Grande;Sweetener;Pop;197;2018
+6810;Kanzen Kankaku Dreamer;ONE OK ROCK;Niche Syndrome;Rock;252;2010
+1040;Shape of You;Ed Sheeran;Shape of You;Pop;233;2017
+5502;We Don't Talk Anymore;Charlie Puth;Nine Track Mind;Pop;217;2016
+8423;Bad Blood;Taylor Swift;1989;Pop;211;2015
+1708;Payphone;Maroon 5;Overexposed;Pop;279;2012
+6515;Uptown Funk;Mark Ronson;Uptown Funk;Funk;270;2014
+3021;Shake It Off;Taylor Swift;1989;Pop;219;2014
+1999;Wherever You Are;5s of Summer;She Looks So Perfect;Pop;188;2014
+3114;Sorry;Justin Bieber;Purpose;R&B;200;2015
+7301;24K Magic;Bruno Mars;24K Magic;R&B;226;2016
+2012;Blank Space;Taylor Swift;1989;Pop;231;2014
+2127;Happy;Pharrel Williams;Happy;Soul;237;2013
+1024;Hello;Adele;25;Soul;296;2015
+4819;I Really Like You;Carly Rae Jepsen;Emotion;Pop;204;2015
+5327;Dark Horse;Katy Perry;Prism;Pop;225;2013
+7604;Starships;Nicki Minaj;Pink Friday: Roman Reloaded;Hip-Hop;262;2012
+1234;Attention;Charlie Puth;Voicenotes;Funk;221;2017
+8711;Stitches;Shawn Mendes;Handwritten;Pop;210;2015
+3124;Wherever You Are;ONE OK ROCK;Niche Syndrome;Rock;297;2010
+7724;The Hills;The Weeknd;Beauty Behind the Madness;R&B;248;2015
+8002;Closer;The Chainsmokers;Collage;Dance;262;2016
+9083;Gangnam Style;PSY;Psy6 (Six Rules);K-pop;252;2012
